@@ -13,8 +13,10 @@ function digiAPI(url) {
     const find = digiArr.find(({ name }) => name.toLowerCase() === target.value.toLowerCase());
     const image = find.img;
 
-    digiText.innerText = `${find.name} é um digimon do tipo ${find.level}`;
-    digiTitle.innerHTML = find.name;
+    const { name, level } = find;
+
+    digiText.innerText = `${name} é um digimon do tipo ${level}`;
+    digiTitle.innerHTML = name;
     imgDigi.src = image;
     console.log(imgDigi);
 
