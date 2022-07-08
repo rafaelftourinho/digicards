@@ -1,13 +1,5 @@
 # Digicards
 
-<p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square">
-  <a href="https://github.com/rafaelftourinho/Pokedex/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square">
-  </a>
-</p>
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -16,14 +8,15 @@ Projeto rápido feito para consumo de API para estudo e treinamento.
 
 
 <p align="center">
-  <img src="./img/Digimon.gif" alt="Página inicial" width="50%" />
+  <img src="./img/Digimon.gif" alt="Página inicial" width="75%" />
 </p>
 
 ## Tecnologias
 
-Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+Tecnologias, ferramentas e API utilizadas no desenvolvimento do projeto:
 
 - [VS Code](https://code.visualstudio.com/) com [ESLint](https://eslint.org/)
+- [API](https://digimon-api.vercel.app/api/digimon)
 
 <br>
 
