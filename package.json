@@ -1,0 +1,32 @@
+{
+  "name": "digicards",
+  "version": "1.0.0",
+  "description": "<p>   <img alt=\"GitHub language count\" src=\"https://img.shields.io/github/languages/count/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square\">   <img alt=\"GitHub Top Language\" src=\"https://img.shields.io/github/languages/top/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square\">   <a href=\"https://github.com/rafaelftourinho/digicards\">     <img alt=\"GitHub last commit\" src=\"https://img.shields.io/github/last-commit/rafaelftourinho/Pokedex?color=6E40C9&style=flat-square\">   </a> </p>",
+  "main": "api.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelftourinho/digicards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelftourinho/digicards/issues"
+  },
+  "homepage": "https://github.com/rafaelftourinho/digicards#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "jest": {
+    "globals": {
+      "window": {},
+      "document": {}
+    }
+  }
+}
